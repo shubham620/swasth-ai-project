@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "tailwind:init": "tailwindcss init",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
